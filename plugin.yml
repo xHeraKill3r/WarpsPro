@@ -38,7 +38,7 @@ permissions:
       default: op
      warpspro.command.warp:
       description: "Allows player use warps"
-      default: true
+      default: false
      warpspro.command.wild:
       description: "Allows player to teleport to a random location in world"
       default: true
